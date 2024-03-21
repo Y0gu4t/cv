@@ -3,6 +3,6 @@
 
 # Логинов Егор. Резюме
 
-📄 __[В формате PDF](https://github.com/Y0gu4t/cv/res/cv_loginov.pdf)__
+📄 __[В формате PDF](https://github.com/Y0gu4t/cv/blob/main/res/cv_loginov.pdf)__
 
-![](https://github.com/Y0gu4t/cv/res/cv_loginov.png)
+![](https://github.com/Y0gu4t/cv/blob/main/res/cv_loginov.png)
